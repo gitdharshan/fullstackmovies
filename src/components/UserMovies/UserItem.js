@@ -16,7 +16,7 @@ const UserItem = (props) => {
           <div className="user-item__info">
             <h2>{props.name}</h2>
             <h3>{props.movieCount} {props.movieCount === 1 ? 'Movie' : 'Movies'}</h3> 
-            {/* ✅ Fix: Using props.movieCount instead of props.moviesCount */}
+     
           </div>
         </Link>
       </Card>
