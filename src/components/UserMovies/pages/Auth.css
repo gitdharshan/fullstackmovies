@@ -1,0 +1,15 @@
+.auth{
+  width: 100%;
+   max-width: 300px;
+   margin-left:300px;
+   margin-top: 100px;
+
+}
+.auth form{
+  background-color: white;
+  box-shadow: 0 10px 10px rgba(0,0,0,0.26);
+
+}
+Button{
+  margin-top: 20px;
+}
