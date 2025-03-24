@@ -22,7 +22,7 @@ const UserList = (props) => {
           id={user.id}
           image={user.image}
           name={user.name}
-          movieCount={user.movies.length} // ✅ Fix: Pass the movie count correctly
+          movieCount={user.movies.length} 
         />
       ))}
     </ul>
